@@ -71,7 +71,7 @@ path_to_docs = '/'.join(Path.cwd().parts[-3:])
 
 # html_theme_path = []
 html_theme_options = {
-    "repository_url": "https://github.com/openedx/edx-documentation",
+    "repository_url": "https://github.com/Mahendra-TitanEd/lms-documentation",
     "repository_branch": "master",
     "path_to_docs": path_to_docs,
     "home_page_in_toc": True,
@@ -104,8 +104,8 @@ html_theme_options = {
 }
 html_theme_options['navigation_depth'] = 3
 
-html_logo = "https://logos.openedx.org/open-edx-logo-color.png"
-html_favicon = "https://logos.openedx.org/open-edx-favicon.ico"
+html_logo = "https://titaned.com/wp-content/uploads/2024/09/titaned-logo.png"
+html_favicon = "https://titaned.com/wp-content/uploads/2023/09/TitanEd-Favicon.png"
 
 # Help and Feedback links.  These are customized for the category and audience
 # of the book.  Add a line to the book's conf.py like this:
