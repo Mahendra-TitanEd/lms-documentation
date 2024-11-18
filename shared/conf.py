@@ -104,8 +104,8 @@ html_theme_options = {
 }
 html_theme_options['navigation_depth'] = 3
 
-html_logo = "https://titaned.com/wp-content/uploads/2024/09/titaned-logo.png"
-html_favicon = "https://titaned.com/wp-content/uploads/2023/09/TitanEd-Favicon.png"
+html_logo = "https://viceclass.com/media/branding_assets/logos/vic-logo.png"
+html_favicon = "https://viceclass.com/media/branding_assets/favicons/logo_2.png"
 
 # Help and Feedback links.  These are customized for the category and audience
 # of the book.  Add a line to the book's conf.py like this:
